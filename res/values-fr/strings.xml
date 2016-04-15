@@ -62,11 +62,11 @@
   <!-- In-call screen: call failure reason (call denied because of current FDN setting) -->
   <string name="callFailed_fdn_only">Les appels sortants sont restreints par la liste de numéros autorisés.</string>
   <!-- In-call screen: call failure reason (call modified to USSD request) -->
-  <string name="callFailed_dialToUssd">DIAL request modified to USSD request.</string>
+  <string name="callFailed_dialToUssd">La requête DIAL a été remplacée par une requête USSD.</string>
   <!-- In-call screen: call failure reason (call modified to SS request) -->
-  <string name="callFailed_dialToSs">DIAL request modified to SS request.</string>
+  <string name="callFailed_dialToSs">La requête DIAL a été remplacée par une requête SS.</string>
   <!-- In-call screen: call failure reason (call modified to call with modified data) -->
-  <string name="callFailed_dialToDial">DIAL request modified to DIAL with different number.</string>
+  <string name="callFailed_dialToDial">La requête DIAL a été remplacée par une requête DIAL avec un numéro différent.</string>
   <!-- In-call screen: call failure reason (call denied because call barring is on) -->
   <string name="callFailed_cb_enabled">Impossible d\'émettre des appels sortants si le blocage d\'appels est activé.</string>
   <!-- In-call screen: call failure reason (call denied because domain specific access control is on) -->
