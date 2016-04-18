@@ -62,11 +62,11 @@
   <!-- In-call screen: call failure reason (call denied because of current FDN setting) -->
   <string name="callFailed_fdn_only">Вы можете звонить только на номера из списка разрешенных.</string>
   <!-- In-call screen: call failure reason (call modified to USSD request) -->
-  <string name="callFailed_dialToUssd">DIAL request modified to USSD request.</string>
+  <string name="callFailed_dialToUssd">DIAL-запрос преобразован в USSD-запрос.</string>
   <!-- In-call screen: call failure reason (call modified to SS request) -->
-  <string name="callFailed_dialToSs">DIAL request modified to SS request.</string>
+  <string name="callFailed_dialToSs">DIAL-запрос преобразован в SS-запрос.</string>
   <!-- In-call screen: call failure reason (call modified to call with modified data) -->
-  <string name="callFailed_dialToDial">DIAL request modified to DIAL with different number.</string>
+  <string name="callFailed_dialToDial">DIAL-запрос преобразован в новый DIAL-запрос с другим номером.</string>
   <!-- In-call screen: call failure reason (call denied because call barring is on) -->
   <string name="callFailed_cb_enabled">Включен запрет вызовов</string>
   <!-- In-call screen: call failure reason (call denied because domain specific access control is on) -->
