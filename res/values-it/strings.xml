@@ -38,7 +38,7 @@
   <!-- In-call screen: call failure reason (network congestion) -->
   <string name="callFailed_congestion">Rete occupata</string>
   <!-- In-call screen: call failure reason (client timed out) -->
-  <string name="callFailed_timedOut">Nessuna risposta, timeout</string>
+  <string name="callFailed_timedOut">Nessuna risposta, tempo esaurito</string>
   <!-- In-call screen: call failure reason (server unreachable) -->
   <string name="callFailed_server_unreachable">Server non raggiungibile</string>
   <!-- In-call screen: call failure reason (peer unreachable) -->
