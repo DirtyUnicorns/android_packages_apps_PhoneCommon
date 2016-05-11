@@ -17,7 +17,7 @@
   -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- String describing the overflow menu button in the dialpad. -->
-  <string name="description_dialpad_overflow">More options</string>
+  <string name="description_dialpad_overflow">Mais opções</string>
   <!-- String describing the Delete/Backspace ImageButton.
          Used by AccessibilityService to announce the purpose of the button.
     -->
@@ -40,37 +40,37 @@
   <!-- In-call screen: call failure reason (client timed out) -->
   <string name="callFailed_timedOut">Sem resposta, tempo limite excedido</string>
   <!-- In-call screen: call failure reason (server unreachable) -->
-  <string name="callFailed_server_unreachable">Server unreachable</string>
+  <string name="callFailed_server_unreachable">Servidor inacessível</string>
   <!-- In-call screen: call failure reason (peer unreachable) -->
-  <string name="callFailed_number_unreachable">Number unreachable</string>
+  <string name="callFailed_number_unreachable">Número inacessível</string>
   <!-- In-call screen: call failure reason (incorrect username or password) -->
-  <string name="callFailed_invalid_credentials">Incorrect username or password</string>
+  <string name="callFailed_invalid_credentials">Nome de usuário ou senha incorretos</string>
   <!-- In-call screen: call failure reason (calling from out of network is not allowed) -->
-  <string name="callFailed_out_of_network">Out\u2011of\u2011network call</string>
+  <string name="callFailed_out_of_network">Chamada fora \u2011de\u2011 rede</string>
   <!-- In-call screen: call failure reason (server error) -->
-  <string name="callFailed_server_error">Server error. Try again later.</string>
+  <string name="callFailed_server_error">Erro do servidor. Tente novamente mais tarde.</string>
   <!-- In-call screen: call failure reason (no signal) -->
-  <string name="callFailed_noSignal">No signal</string>
+  <string name="callFailed_noSignal">Sem sinal</string>
   <!-- In-call screen: call failure reason (GSM ACM limit exceeded) -->
-  <string name="callFailed_limitExceeded">ACM limit exceeded</string>
+  <string name="callFailed_limitExceeded">Limite de ACM excedido</string>
   <!-- In-call screen: call failure reason (radio is off) -->
-  <string name="callFailed_powerOff">Radio off</string>
+  <string name="callFailed_powerOff">Rádio desativado</string>
   <!-- In-call screen: call failure reason (SIM error) -->
-  <string name="callFailed_simError">No SIM or SIM error</string>
+  <string name="callFailed_simError">Sem cartão SIM ou erro do cartão</string>
   <!-- In-call screen: call failure reason (out of service) -->
-  <string name="callFailed_outOfService">Cellular network not available</string>
+  <string name="callFailed_outOfService">Rede móvel não disponível</string>
   <!-- In-call screen: call failure reason (call denied because of current FDN setting) -->
-  <string name="callFailed_fdn_only">Outgoing calls are restricted by FDN.</string>
+  <string name="callFailed_fdn_only">As chamadas efetuadas são restringidas por FDN.</string>
   <!-- In-call screen: call failure reason (call modified to USSD request) -->
-  <string name="callFailed_dialToUssd">DIAL request modified to USSD request.</string>
+  <string name="callFailed_dialToUssd">Pedido de DIAL modificado para pedido USSD.</string>
   <!-- In-call screen: call failure reason (call modified to SS request) -->
-  <string name="callFailed_dialToSs">DIAL request modified to SS request.</string>
+  <string name="callFailed_dialToSs">Pedido de DISCAGEM modificado para requisição SS.</string>
   <!-- In-call screen: call failure reason (call modified to call with modified data) -->
-  <string name="callFailed_dialToDial">DIAL request modified to DIAL with different number.</string>
+  <string name="callFailed_dialToDial">Pedido de DISCAGEM modificado para DISCAGEM com número diferente.</string>
   <!-- In-call screen: call failure reason (call denied because call barring is on) -->
-  <string name="callFailed_cb_enabled">Can\'t make outgoing calls while call barring is on.</string>
+  <string name="callFailed_cb_enabled">Não é possível fazer chamadas enquanto o bloqueio de chamadas está ativado.</string>
   <!-- In-call screen: call failure reason (call denied because domain specific access control is on) -->
-  <string name="callFailed_dsac_restricted">Calls restricted by access control.</string>
+  <string name="callFailed_dsac_restricted">Chamadas restringidas pelo controle de acesso.</string>
   <!-- In-call screen: call failure reason (Emergency call denied because domain specific access control is on)-->
   <string name="callFailed_dsac_restricted_emergency">Emergency calls restricted by access control.</string>
   <!-- In-call screen: call failure reason (Normal call denied because domain specific access control is on)-->
@@ -78,9 +78,9 @@
   <!-- In-call screen: call failure reason (Dialed number doesn't exist) -->
   <string name="callFailed_unobtainable_number">Invalid number</string>
   <!-- In-call screen: message displayed in an error dialog -->
-  <string name="incall_error_missing_voicemail_number">Voicemail number unknown.</string>
+  <string name="incall_error_missing_voicemail_number">Número do correio de voz desconhecido.</string>
   <!-- Choice in the ringtone picker.  If chosen, there will be silence instead of a ringtone played. -->
-  <string name="ringtone_silent">None</string>
+  <string name="ringtone_silent">Nenhum</string>
   <!-- If there is ever a ringtone set for some setting, but that ringtone can no longer be resolved, this is shown instead.  For example, if the ringtone was on a SD card and it had been removed, this would be shown for ringtones on that SD card. -->
-  <string name="ringtone_unknown">Unknown ringtone</string>
+  <string name="ringtone_unknown">Toque desconhecido</string>
 </resources>
