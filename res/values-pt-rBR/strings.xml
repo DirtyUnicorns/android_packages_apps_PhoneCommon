@@ -72,11 +72,11 @@
   <!-- In-call screen: call failure reason (call denied because domain specific access control is on) -->
   <string name="callFailed_dsac_restricted">Chamadas restringidas pelo controle de acesso.</string>
   <!-- In-call screen: call failure reason (Emergency call denied because domain specific access control is on)-->
-  <string name="callFailed_dsac_restricted_emergency">Emergency calls restricted by access control.</string>
+  <string name="callFailed_dsac_restricted_emergency">Chamadas de emergência restringidas pelo controlo de acesso.</string>
   <!-- In-call screen: call failure reason (Normal call denied because domain specific access control is on)-->
-  <string name="callFailed_dsac_restricted_normal">Normal calls restricted by access control.</string>
+  <string name="callFailed_dsac_restricted_normal">Chamadas normais restringidas pelo controlo de acesso.</string>
   <!-- In-call screen: call failure reason (Dialed number doesn't exist) -->
-  <string name="callFailed_unobtainable_number">Invalid number</string>
+  <string name="callFailed_unobtainable_number">Número inválido</string>
   <!-- In-call screen: message displayed in an error dialog -->
   <string name="incall_error_missing_voicemail_number">Número do correio de voz desconhecido.</string>
   <!-- Choice in the ringtone picker.  If chosen, there will be silence instead of a ringtone played. -->
