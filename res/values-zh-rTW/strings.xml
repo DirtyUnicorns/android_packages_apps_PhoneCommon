@@ -62,11 +62,11 @@
   <!-- In-call screen: call failure reason (call denied because of current FDN setting) -->
   <string name="callFailed_fdn_only">撥出通話受固定撥號限制。</string>
   <!-- In-call screen: call failure reason (call modified to USSD request) -->
-  <string name="callFailed_dialToUssd">DIAL request modified to USSD request.</string>
+  <string name="callFailed_dialToUssd">DIAL 請求已修改為 USSD 請求</string>
   <!-- In-call screen: call failure reason (call modified to SS request) -->
-  <string name="callFailed_dialToSs">DIAL request modified to SS request.</string>
+  <string name="callFailed_dialToSs">DIAL 要求已修改為 SS 要求</string>
   <!-- In-call screen: call failure reason (call modified to call with modified data) -->
-  <string name="callFailed_dialToDial">DIAL request modified to DIAL with different number.</string>
+  <string name="callFailed_dialToDial">DIAL 要求已修改為不同號碼的 DIAL 要求</string>
   <!-- In-call screen: call failure reason (call denied because call barring is on) -->
   <string name="callFailed_cb_enabled">通話限制設定開啟時無法撥打電話。</string>
   <!-- In-call screen: call failure reason (call denied because domain specific access control is on) -->
